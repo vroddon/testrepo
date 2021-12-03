@@ -1,0 +1,3 @@
+[submodule "module3"]
+	path = module3
+	url = https://github.com/vroddon/testrepo.git
